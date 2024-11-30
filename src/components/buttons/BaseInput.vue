@@ -5,5 +5,5 @@ const value: Ref<string> = ref('')
 </script>
 
 <template>
-  <Button class="text-white" label="Success" />
+  <Button class="text-white" label="Success" v-model="value" />
 </template>
