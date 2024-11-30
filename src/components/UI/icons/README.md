@@ -4,9 +4,11 @@
 - **Error Handling**: If the specified icon is not found, an error is logged in the console.
 - **Default Size**: 24x24
 
-## Installation
+## Requirements
 
 1. SVG icons in a folder = `src/assets/icons/`.
+2. Tailwindcss version = `"tailwindcss": "^3.4.15"`
+3. SVG loader version = `"vite-svg-loader": "^5.1.0"`
 
 ## Example
 
